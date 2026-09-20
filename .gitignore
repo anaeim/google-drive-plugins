@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ── Google Drive Connector — secrets & generated files ────────────────────────
+.env
+credentials.json
+token.json
+client_secret*.json
+service_account*.json
+
+# Virtual environment
+.venv/
+venv/
