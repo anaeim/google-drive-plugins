@@ -4,6 +4,8 @@ You can use these plugins to connect to your Google Drive, then create and edit 
 
 This repo is a small connector (`connector.py`) that signs in with OAuth, then talks to Drive, Docs, Sheets, and Slides. After a one-time browser login, scripts can list files, create Docs and Sheets, and change their contents.
 
+![Overview of the Google Drive Python connector: setup flow, GoogleDriveConnector, Drive Docs Sheets and Slides, typical usage, and security](docs/Google_Drive_Python_Connector_Overview.png)
+
 ---
 
 ## Repository structure
